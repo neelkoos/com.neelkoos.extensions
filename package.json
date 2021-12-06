@@ -1,7 +1,7 @@
 {
-  "name": "com.neelkoos.com.neelkoos.extensions",
+  "name": "com.neelkoos.extensions",
   "displayName": "Neelkoos Extensions",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "unity": "2020.3",
   "unityRelease": "24f1",
   "description": "Special extensions for Unity",
