@@ -1,0 +1,9 @@
+{
+    "name": "Neelkoos.Extensions.EditorTests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

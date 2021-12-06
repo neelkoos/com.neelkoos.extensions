@@ -1,0 +1,19 @@
+{
+  "name": "com.neelkoos.com.neelkoos.extensions",
+  "displayName": "Neelkoos Extensions",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "unityRelease": "24f1",
+  "description": "Special extensions for Unity",
+  "keywords": [
+    "extensions",
+    "neelkoos"
+  ],
+  "author": {
+    "name": "Neelkoos",
+    "email": "kosa.kornel@gmail.com",
+    "url": "https://neelkoos.itch.io/"
+  },
+  "category": "Editor",
+  "type": "library"
+}

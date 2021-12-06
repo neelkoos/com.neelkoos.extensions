@@ -1,0 +1,14 @@
+{
+    "name": "Neelkoos.Extensions",
+    "rootNamespace": "Neelkoos.Extensions",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

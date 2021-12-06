@@ -1,0 +1,6 @@
+{
+    "name": "Neelkoos.Extensions.PlayTests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
